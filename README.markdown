@@ -20,7 +20,7 @@ Slim 2.3.0 introduced a change which [makes mcrypt extension mandatory](https://
 Before
 ======
 
-```
+```sh
 %composer install
 Loading composer repositories with package information
 Installing dependencies (including require-dev)           
@@ -36,7 +36,7 @@ Your requirements could not be resolved to an installable set of packages.
 After
 =====
 
-```
+```sh
 %composer install
 Loading composer repositories with package information
 Installing dependencies (including require-dev)           
