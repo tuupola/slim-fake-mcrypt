@@ -30,6 +30,7 @@ Your requirements could not be resolved to an installable set of packages.
     - slim/slim 2.3.1 requires ext-mcrypt * -> the requested PHP extension mcrypt is missing from your system.
     - slim/slim 2.3.0 requires ext-mcrypt * -> the requested PHP extension mcrypt is missing from your system.
     - Installation request for slim/slim 2.3.* -> satisfiable by slim/slim[2.3.0, 2.3.1].
+%
 ```
 
 After
