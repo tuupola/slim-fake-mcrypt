@@ -1,8 +1,8 @@
 {
-    "name": "composer/composer-fake-mcrypt",
+    "name": "tuupola/slim-fake-mcrypt",
     "type": "library",
-    "description": "Fake PHP mcrypt extension.",
-    "keywords": ["microframework","rest","router"],
+    "description": "Fake PHP mcrypt extension to enable installing Slim 2.3.*",
+    "keywords": ["hack"],
     "homepage": "",
     "license": "MIT",
     "authors": [
