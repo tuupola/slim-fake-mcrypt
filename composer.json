@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Fake PHP mcrypt extension to enable installing Slim 2.3.*",
     "keywords": ["hack"],
-    "homepage": "",
+    "homepage": "https://github.com/tuupola/slim-fake-mcrypt",
     "license": "MIT",
     "authors": [
         {
