@@ -1,0 +1,21 @@
+{
+    "name": "composer/composer-fake-mcrypt",
+    "type": "library",
+    "description": "Fake PHP mcrypt extension.",
+    "keywords": ["microframework","rest","router"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mika Tuupola",
+            "email": "tuupola@appelsiini.net",
+            "homepage": "http://www.appelsiini.net/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "provide": {
+        "ext-mcrypt": "*"
+    }
+}
